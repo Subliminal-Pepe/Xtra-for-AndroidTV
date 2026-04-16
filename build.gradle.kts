@@ -1,4 +1,6 @@
-// Top-level build file where you can add configuration options common to all sub-projects/modules.
-tasks.register("clean", Delete::class) {
-    delete(rootProject.layout.buildDirectory)
+android {
+    defaultConfig {
+        versionName "1.0.0"  // ← Du änderst das manuell oder mit GitHub Release
+        versionCode 1
+    }
 }
