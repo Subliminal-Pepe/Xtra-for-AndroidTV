@@ -2,7 +2,7 @@ name: Build
 on:
   push:
     tags: [ 'beta', 'v*' ]
-    workflow_dispatch:
+  workflow_dispatch:
 permissions:
   contents: write
 
