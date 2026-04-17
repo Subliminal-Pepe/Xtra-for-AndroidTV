@@ -39,7 +39,7 @@ import javax.inject.Inject
 
 
 @HiltAndroidApp
-class XtraTVAppclass XtraTVApp : Application(), Configuration.Provider, SingletonImageLoader.Factory {
+class XtraTVApp : Application(), Configuration.Provider, SingletonImageLoader.Factory {
 
     companion object {
         lateinit var INSTANCE: Application
