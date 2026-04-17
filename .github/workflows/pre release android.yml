@@ -33,15 +33,15 @@ jobs:
         echo "version_name_short=$(echo $VERSION_NAME | sed 's/\./_/g')" >> $GITHUB_OUTPUT
 
     - name: Build with Gradle
-      run: ./gradlew assembleRelease
+      run: ./gradlew assembleDebug
 
     - name: Rename APK
       id: apk
       run: |
-        APK=$(ls app/build/outputs/apk/release/*.apk | head -n 1)
+        APK=$(ls app/build/outputs/apk/debug/*.apk | head -n 1)
         NEW_NAME="Xtra_for_AndroidTV_${{ steps.version.outputs.version_name }}.apk"
-        cp "$APK" "app/build/outputs/apk/release/$NEW_NAME"
-        echo "apk_path=app/build/outputs/apk/release/$NEW_NAME" >> $GITHUB_OUTPUT
+        cp "$APK" "app/build/outputs/apk/debug/$NEW_NAME"
+        echo "apk_path=app/build/outputs/apk/debug/$NEW_NAME" >> $GITHUB_OUTPUT
 
     - name: Upload a Build Artifact
       uses: actions/upload-artifact@v7
