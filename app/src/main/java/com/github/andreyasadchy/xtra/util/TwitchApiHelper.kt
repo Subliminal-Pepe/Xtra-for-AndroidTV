@@ -10,7 +10,7 @@ import android.text.format.DateUtils
 import androidx.appcompat.app.AppCompatDelegate
 import androidx.core.content.ContextCompat
 import com.github.andreyasadchy.xtra.R
-import com.github.andreyasadchy.xtra.XtraApp
+import com.github.andreyasadchy.xtra.XtraTVApp
 import org.json.JSONObject
 import java.lang.Integer.parseInt
 import java.math.RoundingMode
@@ -390,7 +390,7 @@ object TwitchApiHelper {
     }
 
     fun getMessageIdString(msgId: String?): String? {
-        val appContext = XtraApp.INSTANCE.applicationContext
+        val appContext = XtraTVApp.INSTANCE.applicationContext
         return when (msgId) {
             "highlighted-message" -> ContextCompat.getString(appContext, R.string.irc_msgid_highlighted_message)
             "announcement" -> ContextCompat.getString(appContext, R.string.irc_msgid_announcement)
