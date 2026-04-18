@@ -1553,32 +1553,32 @@
         <item name="dividerColor">@color/secondaryTextColorBlue</item>
     </style>
 
-    <style name="MaterialBottomNavigationDark" parent="Widget.MaterialComponents.NavigationView ">
+    <!--  <style name="MaterialBottomNavigationDark" parent="Widget.MaterialComponents.NavigationView ">
         <item name="materialThemeOverlay">@style/MaterialBottomNavigationOverlay</item>
         <item name="itemTextAppearanceActive">@style/MaterialBottomNavigationText</item>
         <item name="itemTextAppearanceInactive">@style/MaterialBottomNavigationText</item>
         <item name="elevation">0dp</item>
         <item name="itemIconTint">@color/nav_bar_dark</item>
         <item name="itemTextColor">@color/nav_bar_dark</item>
-    </style>
+    </style>-->
 
-    <style name="MaterialBottomNavigationLight" parent="Widget.MaterialComponents.NavigationView ">
+    <!--<style name="MaterialBottomNavigationLight" parent="Widget.MaterialComponents.NavigationView ">
         <item name="materialThemeOverlay">@style/MaterialBottomNavigationOverlay</item>
         <item name="itemTextAppearanceActive">@style/MaterialBottomNavigationText</item>
         <item name="itemTextAppearanceInactive">@style/MaterialBottomNavigationText</item>
         <item name="elevation">0dp</item>
         <item name="itemIconTint">@color/nav_bar_light</item>
         <item name="itemTextColor">@color/nav_bar_light</item>
-    </style>
+    </style>-->
 
-    <style name="MaterialBottomNavigationBlue" parent="Widget.MaterialComponents.NavigationView ">
+    <!--<style name="MaterialBottomNavigationBlue" parent="Widget.MaterialComponents.NavigationView ">
         <item name="materialThemeOverlay">@style/MaterialBottomNavigationOverlay</item>
         <item name="itemTextAppearanceActive">@style/MaterialBottomNavigationText</item>
         <item name="itemTextAppearanceInactive">@style/MaterialBottomNavigationText</item>
         <item name="elevation">0dp</item>
         <item name="itemIconTint">@color/nav_bar_blue</item>
         <item name="itemTextColor">@color/nav_bar_blue</item>
-    </style>
+    </style>-->
 
     <style name="MaterialBottomNavigationOverlay">
         <item name="colorPrimary">?attr/colorControlNormal</item>
