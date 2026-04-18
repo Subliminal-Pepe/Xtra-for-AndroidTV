@@ -103,7 +103,7 @@
         <item name="materialSwitchStyle">@style/SwitchBlue</item>
         <item name="sliderStyle">@style/Slider</item>
         <item name="linearProgressIndicatorStyle">@style/Widget.Material3.LinearProgressIndicator.Legacy</item>
-        <item name="bottomNavigationStyle">@style/BottomNavigationBlue</item>
+        <!--<item name="bottomNavigationStyle">@style/BottomNavigationBlue</item>-->
         <item name="preferenceTheme">@style/PreferenceTheme</item>
         <item name="android:navigationBarColor">@color/darkScrim</item>
         <item name="android:statusBarColor">@android:color/transparent</item>
@@ -147,7 +147,7 @@
         <item name="toolbarStyle">@style/CompactToolbar</item>
         <item name="tabLayoutHeight">42dp</item>
         <item name="bottomNavigationHeight">40dp</item>
-        <item name="bottomNavigationStyle">@style/CompactBottomNavigationBlue</item>
+        <!--<item name="bottomNavigationStyle">@style/CompactBottomNavigationBlue</item>-->
         <item name="cardStyle">@style/CompactCard</item>
         <item name="radioButtonStyle">@style/CompactRadioButton</item>
         <item name="checkboxStyle">@style/CompactCheckBox</item>
@@ -451,7 +451,7 @@
         <item name="toolbarStyle">@style/CompactToolbar</item>
         <item name="tabLayoutHeight">42dp</item>
         <item name="bottomNavigationHeight">40dp</item>
-        <item name="bottomNavigationStyle">@style/CompactBottomNavigationBlue</item>
+        <!--<item name="bottomNavigationStyle">@style/CompactBottomNavigationBlue</item>-->
         <item name="cardStyle">@style/CompactCard</item>
         <item name="radioButtonStyle">@style/CompactRadioButton</item>
         <item name="checkboxStyle">@style/CompactCheckBox</item>
@@ -566,7 +566,7 @@
         <item name="toolbarStyle">@style/CompactToolbar</item>
         <item name="tabLayoutHeight">42dp</item>
         <item name="bottomNavigationHeight">40dp</item>
-        <item name="bottomNavigationStyle">@style/CompactBottomNavigationBlue</item>
+        <!--<item name="bottomNavigationStyle">@style/CompactBottomNavigationBlue</item>-->
         <item name="cardStyle">@style/CompactCard</item>
         <item name="radioButtonStyle">@style/CompactRadioButton</item>
         <item name="checkboxStyle">@style/CompactCheckBox</item>
@@ -727,7 +727,7 @@
         <item name="toolbarStyle">@style/CompactToolbar</item>
         <item name="tabLayoutHeight">42dp</item>
         <item name="bottomNavigationHeight">40dp</item>
-        <item name="bottomNavigationStyle">@style/CompactBottomNavigationBlue</item>
+        <!--<item name="bottomNavigationStyle">@style/CompactBottomNavigationBlue</item>-->
         <item name="cardStyle">@style/CompactCard</item>
         <item name="radioButtonStyle">@style/CompactRadioButton</item>
         <item name="checkboxStyle">@style/CompactCheckBox</item>
@@ -834,7 +834,7 @@
         <item name="toolbarStyle">@style/CompactToolbar</item>
         <item name="tabLayoutHeight">42dp</item>
         <item name="bottomNavigationHeight">40dp</item>
-        <item name="bottomNavigationStyle">@style/CompactBottomNavigationBlue</item>
+        <!--<item name="bottomNavigationStyle">@style/CompactBottomNavigationBlue</item>-->
         <item name="cardStyle">@style/CompactCard</item>
         <item name="radioButtonStyle">@style/CompactRadioButton</item>
         <item name="checkboxStyle">@style/CompactCheckBox</item>
@@ -995,7 +995,7 @@
         <item name="toolbarStyle">@style/CompactToolbar</item>
         <item name="tabLayoutHeight">42dp</item>
         <item name="bottomNavigationHeight">40dp</item>
-        <item name="bottomNavigationStyle">@style/CompactBottomNavigationBlue</item>
+        <!--<item name="bottomNavigationStyle">@style/CompactBottomNavigationBlue</item>-->
         <item name="cardStyle">@style/CompactCard</item>
         <item name="radioButtonStyle">@style/CompactRadioButton</item>
         <item name="checkboxStyle">@style/CompactCheckBox</item>
@@ -1241,7 +1241,7 @@
         <item name="linearProgressIndicatorStyle">@style/MaterialLinearProgressIndicator</item>
         <item name="floatingActionButtonSmallStyle">@style/MaterialFloatingActionButton</item>
         <item name="materialDividerStyle">@style/MaterialDividerDark</item>
-        <item name="bottomNavigationStyle">@style/MaterialBottomNavigationDark</item>
+        <!--<item name="bottomNavigationStyle">@style/MaterialBottomNavigationDark</item>-->
         <item name="bottomSheetDialogTheme">@style/MaterialBottomSheet</item>
         <item name="alertDialogTheme">@style/MaterialDialog</item>
         <item name="preferenceTheme">@style/MaterialPreferenceTheme</item>
@@ -1301,7 +1301,7 @@
         <item name="linearProgressIndicatorStyle">@style/MaterialLinearProgressIndicator</item>
         <item name="floatingActionButtonSmallStyle">@style/MaterialFloatingActionButton</item>
         <item name="materialDividerStyle">@style/MaterialDividerLight</item>
-        <item name="bottomNavigationStyle">@style/MaterialBottomNavigationLight</item>
+        <!--<item name="bottomNavigationStyle">@style/MaterialBottomNavigationLight</item>-->
         <item name="bottomSheetDialogTheme">@style/MaterialBottomSheet</item>
         <item name="alertDialogTheme">@style/MaterialDialog</item>
         <item name="preferenceTheme">@style/MaterialPreferenceTheme</item>
@@ -1363,7 +1363,7 @@
         <item name="linearProgressIndicatorStyle">@style/MaterialLinearProgressIndicator</item>
         <item name="floatingActionButtonSmallStyle">@style/MaterialFloatingActionButton</item>
         <item name="materialDividerStyle">@style/MaterialDividerDark</item>
-        <item name="bottomNavigationStyle">@style/MaterialBottomNavigationDark</item>
+        <!--<item name="bottomNavigationStyle">@style/MaterialBottomNavigationDark</item>-->
         <item name="bottomSheetDialogTheme">@style/MaterialBottomSheet</item>
         <item name="alertDialogTheme">@style/MaterialDialog</item>
         <item name="preferenceTheme">@style/MaterialPreferenceTheme</item>
@@ -1423,7 +1423,7 @@
         <item name="linearProgressIndicatorStyle">@style/MaterialLinearProgressIndicatorBlue</item>
         <item name="floatingActionButtonSmallStyle">@style/MaterialFloatingActionButton</item>
         <item name="materialDividerStyle">@style/MaterialDividerBlue</item>
-        <item name="bottomNavigationStyle">@style/MaterialBottomNavigationBlue</item>
+        <!--<item name="bottomNavigationStyle">@style/MaterialBottomNavigationBlue</item>-->
         <item name="bottomSheetDialogTheme">@style/MaterialBottomSheet</item>
         <item name="alertDialogTheme">@style/MaterialDialog</item>
         <item name="preferenceTheme">@style/MaterialPreferenceTheme</item>
