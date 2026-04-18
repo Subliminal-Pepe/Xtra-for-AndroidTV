@@ -70,7 +70,7 @@
         <item name="materialSwitchStyle">@style/SwitchAmoled</item>
         <item name="sliderStyle">@style/Slider</item>
         <item name="linearProgressIndicatorStyle">@style/LinearProgressIndicatorAmoled</item>
-        <item name="bottomNavigationStyle">@style/BottomNavigationAmoled</item>
+        <!--<item name="bottomNavigationStyle">@style/BottomNavigationAmoled</item>-->
         <item name="bottomSheetDialogTheme">@style/BottomSheet</item>
         <item name="materialAlertDialogTheme">@style/Dialog</item>
         <item name="preferenceTheme">@style/PreferenceTheme</item>
@@ -136,7 +136,7 @@
         <item name="toolbarStyle">@style/CompactToolbar</item>
         <item name="tabLayoutHeight">42dp</item>
         <item name="bottomNavigationHeight">40dp</item>
-        <item name="bottomNavigationStyle">@style/CompactBottomNavigationAmoled</item>
+       <!-- <item name="bottomNavigationStyle">@style/CompactBottomNavigationAmoled</item>-->
         <item name="cardStyle">@style/CompactCardAmoled</item>
         <item name="radioButtonStyle">@style/CompactRadioButton</item>
         <item name="checkboxStyle">@style/CompactCheckBox</item>
@@ -425,7 +425,7 @@
         <item name="toolbarStyle">@style/CompactToolbar</item>
         <item name="tabLayoutHeight">42dp</item>
         <item name="bottomNavigationHeight">40dp</item>
-        <item name="bottomNavigationStyle">@style/CompactBottomNavigationAmoled</item>
+        <!--<item name="bottomNavigationStyle">@style/CompactBottomNavigationAmoled</item>-->
         <item name="cardStyle">@style/CompactCardAmoled</item>
         <item name="radioButtonStyle">@style/CompactRadioButton</item>
         <item name="checkboxStyle">@style/CompactCheckBox</item>
@@ -555,7 +555,7 @@
         <item name="toolbarStyle">@style/CompactToolbar</item>
         <item name="tabLayoutHeight">42dp</item>
         <item name="bottomNavigationHeight">40dp</item>
-        <item name="bottomNavigationStyle">@style/CompactBottomNavigationAmoled</item>
+        <!--<item name="bottomNavigationStyle">@style/CompactBottomNavigationAmoled</item>-->
         <item name="cardStyle">@style/CompactCardAmoled</item>
         <item name="radioButtonStyle">@style/CompactRadioButton</item>
         <item name="checkboxStyle">@style/CompactCheckBox</item>
@@ -701,7 +701,7 @@
         <item name="toolbarStyle">@style/CompactToolbar</item>
         <item name="tabLayoutHeight">42dp</item>
         <item name="bottomNavigationHeight">40dp</item>
-        <item name="bottomNavigationStyle">@style/CompactBottomNavigationAmoled</item>
+        <!--<item name="bottomNavigationStyle">@style/CompactBottomNavigationAmoled</item>-->
         <item name="cardStyle">@style/CompactCardAmoled</item>
         <item name="radioButtonStyle">@style/CompactRadioButton</item>
         <item name="checkboxStyle">@style/CompactCheckBox</item>
@@ -823,7 +823,7 @@
         <item name="toolbarStyle">@style/CompactToolbar</item>
         <item name="tabLayoutHeight">42dp</item>
         <item name="bottomNavigationHeight">40dp</item>
-        <item name="bottomNavigationStyle">@style/CompactBottomNavigationAmoled</item>
+        <!--<item name="bottomNavigationStyle">@style/CompactBottomNavigationAmoled</item>-->
         <item name="cardStyle">@style/CompactCardAmoled</item>
         <item name="radioButtonStyle">@style/CompactRadioButton</item>
         <item name="checkboxStyle">@style/CompactCheckBox</item>
@@ -969,7 +969,7 @@
         <item name="toolbarStyle">@style/CompactToolbar</item>
         <item name="tabLayoutHeight">42dp</item>
         <item name="bottomNavigationHeight">40dp</item>
-        <item name="bottomNavigationStyle">@style/CompactBottomNavigationAmoled</item>
+        <!--<item name="bottomNavigationStyle">@style/CompactBottomNavigationAmoled</item>-->
         <item name="cardStyle">@style/CompactCardAmoled</item>
         <item name="radioButtonStyle">@style/CompactRadioButton</item>
         <item name="checkboxStyle">@style/CompactCheckBox</item>
@@ -1088,7 +1088,7 @@
         <item name="cardStyle">@style/CardAmoled</item>
         <item name="materialSwitchStyle">@style/Widget.Material3.CompoundButton.MaterialSwitch</item>
         <item name="linearProgressIndicatorStyle">@style/LinearProgressIndicatorAmoled</item>
-        <item name="bottomNavigationStyle">@style/BottomNavigationAmoled</item>
+        <!--<item name="bottomNavigationStyle">@style/BottomNavigationAmoled</item>-->
         <item name="bottomSheetDialogTheme">@style/BottomSheet</item>
         <item name="materialAlertDialogTheme">@style/Dialog</item>
     </style>
