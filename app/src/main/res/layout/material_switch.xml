@@ -5,6 +5,6 @@
     android:layout_height="wrap_content"
     android:scaleX="0.8"
     android:scaleY="0.8"
-    android:focusable="false"
+    android:focusable="true"
     android:clickable="false"
     android:background="@null" />

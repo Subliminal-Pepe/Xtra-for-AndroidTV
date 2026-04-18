@@ -1129,7 +1129,7 @@
     </style>
 
     <style name="CardOverlayAmoled">
-        <item name="colorPrimary">?attr/colorSurface</item>
+        <item name="colorPrimary">?attr/colorPrimary</item>
     </style>
 
     <style name="RadioButton" parent="Widget.Material3.CompoundButton.RadioButton">
@@ -1462,7 +1462,7 @@
     </style>
 
     <style name="MaterialCardOverlay">
-        <item name="colorPrimary">?attr/colorSurface</item>
+        <item name="colorPrimary">?attr/colorPrimary</item>
     </style>
 
     <style name="MaterialButton" parent="Widget.MaterialComponents.Button">
@@ -1471,7 +1471,7 @@
     </style>
 
     <style name="MaterialButtonOverlay">
-        <item name="colorPrimary">?attr/colorSurface</item>
+        <item name="colorPrimary">?attr/colorPrimary</item>
         <item name="colorOnPrimary">?attr/colorControlNormal</item>
     </style>
 
